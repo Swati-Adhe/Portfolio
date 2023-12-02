@@ -1,5 +1,5 @@
 # Portfolio
-This is personal portfolio
+This is personal portfolio website
 
 # Technologies Used-  
-HTML, CSS,
+HTML, CSS
